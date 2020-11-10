@@ -1,0 +1,51 @@
+StartDate,EndDate,Status,Duration (in seconds),Finished,RecordedDate,DistributionChannel,Q0,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8
+Start Date,End Date,Response Type,Duration (in seconds),Finished,Recorded Date,Distribution Channel,"By continuing this survey, you consent to participating in providing voluntary information.",Age,What category do you fall under?,Are you employed?,"What is your average monthly income, including money from outside sources such as stipend scholarships, or allowance from your parents?",What is your average monthly spending (not including rent/utilities)?,What do you spend the most money on?,What do you usually spend your credit card cash back on?,"You are given the option to choose Credit Card A or Credit Card B each with the following cash back options:
+Credit card A:-Redeem as cash-Apply to statement-Redeem as gift card ($20 minimum)
+Credit Card B:-Redeem as cash-Apply to statement-Invest in a stock (no minimum)
+Which credit card option would you be likely to choose?"
+11/11/2019 8:18,11/11/2019 8:23,IP Address,333,TRUE,11/11/2019 8:23,anonymous,"Yes, I agree",23,Graduate (Masters),Yes,"$1,300 ",$450 ,Other,Apply to statement balance,Option A
+11/11/2019 8:31,11/11/2019 8:34,IP Address,171,TRUE,11/11/2019 8:34,anonymous,"Yes, I agree",22,Graduate (Masters),Yes,"$1,000 ",$500 ,Groceries/day-to-day needs,Apply to statement balance,Option A
+11/4/2019 9:08,11/4/2019 10:30,IP Address,4934,FALSE,11/11/2019 10:31,anonymous,,,,No,,,,,
+11/11/2019 16:07,11/11/2019 16:09,IP Address,109,TRUE,11/11/2019 16:09,anonymous,"Yes, I agree",22,Graduate (Masters),Yes,1200,400,Groceries/day-to-day needs,Redeem as cash,Option B
+11/12/2019 20:25,11/12/2019 20:31,IP Address,372,TRUE,11/12/2019 20:31,anonymous,"Yes, I agree",24,Graduate (Masters),No,0,650,Groceries/day-to-day needs,Redeem as cash,Option B
+11/13/2019 15:13,11/13/2019 15:15,IP Address,104,TRUE,11/13/2019 15:15,anonymous,"Yes, I agree",23,Graduate (Masters),Yes,700,300,Other,,Option B
+11/13/2019 15:16,11/13/2019 15:18,IP Address,107,TRUE,11/13/2019 15:18,anonymous,"Yes, I agree",22,Graduate (Masters),Yes,1300,900,"Eating out (restaurants, coffee, etc.)",Apply to statement balance,Option B
+11/13/2019 15:17,11/13/2019 15:19,IP Address,112,TRUE,11/13/2019 15:19,anonymous,"Yes, I agree",22,Graduate (Masters),No,800,150-200,Groceries/day-to-day needs,Apply to statement balance,Option A
+11/13/2019 15:18,11/13/2019 15:20,IP Address,121,TRUE,11/13/2019 15:20,anonymous,"Yes, I agree",22,Graduate (Masters),No,880,400,"Eating out (restaurants, coffee, etc.)",Apply to statement balance,Option B
+11/13/2019 15:22,11/13/2019 15:24,IP Address,151,TRUE,11/13/2019 15:24,anonymous,"Yes, I agree",23,Graduate (Masters),No,800,500,Travel,Apply to statement balance,Option B
+11/13/2019 20:46,11/13/2019 20:49,Survey Preview,152,TRUE,11/13/2019 20:49,preview,"Yes, I agree",24,Graduate (Masters),Yes,1000,600,Groceries/day-to-day needs,Apply to statement balance,Option B
+11/13/2019 22:53,11/13/2019 22:57,IP Address,246,TRUE,11/13/2019 22:57,anonymous,"Yes, I agree",23,Graduate (Masters),Yes,"$1,000 ",,"Eating out (restaurants, coffee, etc.)",Redeem as cash,Option A
+11/13/2019 22:55,11/13/2019 22:58,IP Address,174,TRUE,11/13/2019 22:58,anonymous,"Yes, I agree",23,Graduate (Masters),No,800,700,"Eating out (restaurants, coffee, etc.)",Redeem as cash,Option B
+11/14/2019 11:27,11/14/2019 11:30,IP Address,225,TRUE,11/14/2019 11:30,anonymous,"Yes, I agree",22,Graduate (Masters),Yes,$500 ,$300 ,"Eating out (restaurants, coffee, etc.)",Apply to statement balance,Option B
+11/14/2019 20:05,11/14/2019 20:07,IP Address,137,TRUE,11/14/2019 20:07,anonymous,"Yes, I agree",22,Graduate (Masters),Yes,$650 ,$300 ,"Eating out (restaurants, coffee, etc.)",Apply to statement balance,Option A
+11/17/2019 22:53,11/17/2019 23:01,IP Address,474,TRUE,11/17/2019 23:01,anonymous,"Yes, I agree",23,Graduate (Masters),No,1500,1500,"Eating out (restaurants, coffee, etc.)",Redeem as cash,Option B
+11/20/2019 18:59,11/20/2019 19:16,IP Address,1048,TRUE,11/20/2019 19:16,anonymous,"Yes, I agree",21,Other,Yes,600,300,"Eating out (restaurants, coffee, etc.)",Redeem as cash,Option A
+11/20/2019 19:19,11/20/2019 19:25,IP Address,365,TRUE,11/20/2019 19:25,anonymous,"Yes, I agree",23,Graduate (Masters),Yes,￥1500,￥1500,"Entertainment (movies, shows, concerts, etc.)",Use to purchase gift cards,Option A
+11/20/2019 19:51,11/20/2019 19:54,IP Address,164,TRUE,11/20/2019 19:54,anonymous,"Yes, I agree",23,Graduate (Masters),No,2500,2000,Groceries/day-to-day needs,Redeem as cash,Option A
+11/20/2019 20:12,11/20/2019 20:14,IP Address,170,TRUE,11/20/2019 20:14,anonymous,"Yes, I agree",21,Graduate (Masters),No,2000,1500,Groceries/day-to-day needs,Use to purchase gift cards,Option B
+11/13/2019 20:39,11/13/2019 20:39,IP Address,17,FALSE,11/20/2019 20:39,anonymous,"Yes, I agree",,,,,,,,
+11/21/2019 15:19,11/21/2019 15:23,IP Address,249,TRUE,11/21/2019 15:23,anonymous,"Yes, I agree",32,Undergraduate,Yes,4000,1000,"Eating out (restaurants, coffee, etc.)",Apply to statement balance,Option B
+11/13/2019 11:50,11/14/2019 19:27,IP Address,113834,FALSE,11/21/2019 19:27,anonymous,"Yes, I agree",21,Undergraduate,No,30000,1500,Groceries/day-to-day needs,,
+11/21/2019 21:35,11/21/2019 21:39,IP Address,205,TRUE,11/21/2019 21:39,anonymous,"Yes, I agree",23,Graduate (Masters),No,0,300,"Transportation (Uber, buses, train, subway)",Apply to statement balance,Option A
+11/21/2019 22:27,11/21/2019 22:30,IP Address,159,TRUE,11/21/2019 22:30,anonymous,"Yes, I agree",24,Graduate (Masters),No,,300,Groceries/day-to-day needs,Apply to statement balance,Option A
+11/17/2019 22:50,11/17/2019 22:50,IP Address,8,FALSE,11/24/2019 22:50,anonymous,"Yes, I agree",,,,,,,,
+11/17/2019 23:10,11/17/2019 23:11,Spam,76,FALSE,11/24/2019 23:11,anonymous,"Yes, I agree",,,,,,,,
+11/17/2019 23:50,11/17/2019 23:59,IP Address,532,FALSE,11/24/2019 23:59,anonymous,"Yes, I agree",23,Graduate (Masters),Yes,1000d,160h,"Entertainment (movies, shows, concerts, etc.)",,
+11/25/2019 9:17,11/25/2019 9:20,IP Address,200,TRUE,11/25/2019 9:20,anonymous,"Yes, I agree",25,Graduate (Masters),No,200,800,Groceries/day-to-day needs,Redeem as cash,Option B
+11/25/2019 9:21,11/25/2019 9:59,IP Address,2309,TRUE,11/25/2019 9:59,anonymous,"Yes, I agree",23,Graduate (Masters),No,1300,300,"Entertainment (movies, shows, concerts, etc.)",Redeem as cash,Option A
+11/27/2019 12:13,11/27/2019 12:15,IP Address,94,TRUE,11/27/2019 12:15,anonymous,"Yes, I agree",22,Graduate (Masters),Yes,"1,000",300,"Eating out (restaurants, coffee, etc.)",Redeem as cash,Option B
+11/27/2019 12:33,11/27/2019 12:36,IP Address,198,TRUE,11/27/2019 12:36,anonymous,"Yes, I agree",19,Undergraduate,No,800,400,"Eating out (restaurants, coffee, etc.)",Use to purchase gift cards,Option B
+11/27/2019 12:17,11/27/2019 12:56,IP Address,2372,TRUE,11/27/2019 12:56,anonymous,"Yes, I agree",21,Undergraduate,No,500,300,"Eating out (restaurants, coffee, etc.)",Apply to statement balance,Option B
+11/27/2019 13:44,11/27/2019 13:46,IP Address,133,TRUE,11/27/2019 13:46,anonymous,"Yes, I agree",21,Undergraduate,Yes,"5,000","1,500-2,000",Other,Redeem as cash,Option A
+11/27/2019 13:54,11/27/2019 13:57,IP Address,174,TRUE,11/27/2019 13:57,anonymous,"Yes, I agree",21,Undergraduate,Yes,2200,1000,Groceries/day-to-day needs,,Option B
+11/27/2019 15:01,11/27/2019 15:29,IP Address,1630,TRUE,11/27/2019 15:29,anonymous,"Yes, I agree",22,Undergraduate,Yes,$700 ,$400 ,Groceries/day-to-day needs,Redeem as cash,Option A
+11/27/2019 17:09,11/27/2019 17:11,IP Address,165,TRUE,11/27/2019 17:11,anonymous,"Yes, I agree",22,Other,Yes,2500,800,"Eating out (restaurants, coffee, etc.)",Redeem as cash,Option B
+11/27/2019 19:47,11/27/2019 19:52,IP Address,277,TRUE,11/27/2019 19:52,anonymous,"Yes, I agree",23,Graduate (Masters),No,1500,500,"Eating out (restaurants, coffee, etc.)",Apply to statement balance,Option A
+11/27/2019 19:57,11/27/2019 20:00,IP Address,132,TRUE,11/27/2019 20:00,anonymous,"Yes, I agree",21,Graduate (Masters),No,5000,5000,Other,Redeem as cash,Option B
+11/28/2019 10:05,11/28/2019 10:08,IP Address,199,TRUE,11/28/2019 10:08,anonymous,"Yes, I agree",22,Graduate (Masters),Yes,1000,1000,Groceries/day-to-day needs,Apply to statement balance,Option B
+11/28/2019 11:22,11/28/2019 11:24,IP Address,114,TRUE,11/28/2019 11:24,anonymous,"Yes, I agree",18,Undergraduate,Yes,1500,1000,"Eating out (restaurants, coffee, etc.)",Apply to statement balance,Option B
+11/28/2019 11:24,11/28/2019 11:26,IP Address,95,TRUE,11/28/2019 11:26,anonymous,"Yes, I agree",20,Undergraduate,Yes,2000,1300,Groceries/day-to-day needs,Redeem as cash,Option B
+11/28/2019 11:26,11/28/2019 11:29,IP Address,173,TRUE,11/28/2019 11:29,anonymous,"Yes, I agree",24,Graduate (Masters),Yes,"2,500","1,000",Groceries/day-to-day needs,Apply to statement balance,Option A
+11/28/2019 11:29,11/28/2019 11:31,IP Address,119,TRUE,11/28/2019 11:31,anonymous,"Yes, I agree",22,Graduate (Masters),Yes,1800,900,"Eating out (restaurants, coffee, etc.)",Apply to statement balance,Option B
+11/29/2019 0:51,11/29/2019 0:53,IP Address,145,TRUE,11/29/2019 0:53,anonymous,"Yes, I agree",19,Undergraduate,Yes,800,600,Groceries/day-to-day needs,Redeem as cash,Option B
+11/29/2019 1:02,11/29/2019 1:03,IP Address,87,TRUE,11/29/2019 1:03,anonymous,"Yes, I agree",22,Graduate (Masters),Yes,1500,1200,"Eating out (restaurants, coffee, etc.)",Redeem as cash,Option A
